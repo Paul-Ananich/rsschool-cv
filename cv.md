@@ -55,28 +55,28 @@ Stack: React Native
 #### STACK AND TECHNICAL SKILLS
 
 1. Operating systems:
-- Android
-- IOS
+  - Android
+  - IOS
 2. Database systems:
-- Firebase
+  - Firebase
 3. Programming languages:
-- Javascript
-- Typescript
-- React Native
-- Expo
-- React
-- HTML
-- CSS
-- Material UI
-- Redux Saga
-- Redux Thunk
-- Redux Toolkit
+  - Javascript
+  - Typescript
+  - React Native
+  - Expo
+  - React
+  - HTML
+  - CSS
+  - Material UI
+  - Redux Saga
+  - Redux Thunk
+  - Redux Toolkit
 4. VСS
-- GitHub
+  - GitHub
 5. CI/CD systems:
-- Github Actions
-- Firebase
-- TestFlight
+  - Github Actions
+  - Firebase
+  - TestFlight
 6. Error tracking:
-- Sentry
+  - Sentry
 
